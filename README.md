@@ -9,7 +9,7 @@ The Virtual Brain framework is a complete framework including:
 
 The easiest way to use the framework from the Git repo is to obtain
 a distribution of TVB with Python & all the necessary packages: please
-follow the instructions [in our documentation](http://docs.thevirtualbrain.com/advanced/link_contributor.html).
+follow the instructions [in our documentation](http://docs.thevirtualbrain.org/manuals/ContributorsManual/ContributorsManual.html).
 
 Alternatively, if you plan to develop with TVB, extensively modify code,
 or prefer to use your own Python installation, you may prefer to use the
